@@ -1,0 +1,5 @@
+[04-Aug-2015 16:24:47 Asia/Shanghai] AccessToken Fetched
+[04-Aug-2015 17:52:23 Asia/Shanghai] AccessToken Fetched
+[04-Aug-2015 19:22:18 Asia/Shanghai] AccessToken Fetched
+[04-Aug-2015 20:51:09 Asia/Shanghai] AccessToken Fetched
+[04-Aug-2015 23:20:22 Asia/Shanghai] PHP Notice:  Event type is unsupported currently: MASSSENDJOBFINISH in /home/chidsjwb/public_html/wxgongzhongpingtai/php/replyWithRule.php on line 90

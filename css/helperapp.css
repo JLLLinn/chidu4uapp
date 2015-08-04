@@ -1,0 +1,22 @@
+.top-buffer { margin-top:20px; }
+.bottom-buffer { margin-bottom:20px; }
+.table-fixed-width{
+	table-layout: fixed; 
+	word-wrap: break-word;
+}
+.break-word{
+	word-wrap: break-word;
+}
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.42;
+  border-radius: 15px;
+}
+
+a{
+    text-decoration: none !important;
+}

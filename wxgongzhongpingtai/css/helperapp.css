@@ -1,0 +1,5 @@
+.top-buffer { margin-top:20px; }
+.table-fixed-width{
+	table-layout: fixed; 
+	word-wrap: break-word;
+}

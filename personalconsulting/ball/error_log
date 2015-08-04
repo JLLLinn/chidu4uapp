@@ -1,0 +1,23 @@
+[04-Aug-2015 02:40:56 Asia/Shanghai] AccessToken Fetched
+[04-Aug-2015 02:40:57 Asia/Shanghai] PHP Fatal error:  Undefined class constant 'MAGIC_EXPIRE_OFFSET_TIME' in /home/chidsjwb/wxgongzhongpingtai/getAccessToken.php on line 33
+[04-Aug-2015 03:09:53 Asia/Shanghai] AccessToken Fetched
+[04-Aug-2015 03:09:54 Asia/Shanghai] PHP Fatal error:  Undefined class constant 'MAGIC_EXPIRE_OFFSET_TIME' in /home/chidsjwb/wxgongzhongpingtai/getAccessToken.php on line 33
+[04-Aug-2015 03:09:54 Asia/Shanghai] AccessToken Fetched
+[04-Aug-2015 03:09:55 Asia/Shanghai] PHP Fatal error:  Undefined class constant 'MAGIC_EXPIRE_OFFSET_TIME' in /home/chidsjwb/wxgongzhongpingtai/getAccessToken.php on line 33
+[04-Aug-2015 03:10:20 Asia/Shanghai] AccessToken Fetched
+[04-Aug-2015 03:10:20 Asia/Shanghai] PHP Fatal error:  Undefined class constant 'MAGIC_EXPIRE_OFFSET_TIME' in /home/chidsjwb/wxgongzhongpingtai/getAccessToken.php on line 33
+[04-Aug-2015 03:10:24 Asia/Shanghai] AccessToken Fetched
+[04-Aug-2015 03:10:24 Asia/Shanghai] PHP Fatal error:  Undefined class constant 'MAGIC_EXPIRE_OFFSET_TIME' in /home/chidsjwb/wxgongzhongpingtai/getAccessToken.php on line 33
+[04-Aug-2015 03:10:24 Asia/Shanghai] AccessToken Fetched
+[04-Aug-2015 03:10:25 Asia/Shanghai] PHP Fatal error:  Undefined class constant 'MAGIC_EXPIRE_OFFSET_TIME' in /home/chidsjwb/wxgongzhongpingtai/getAccessToken.php on line 33
+[04-Aug-2015 04:36:57 Asia/Shanghai] AccessToken Fetched
+[04-Aug-2015 04:36:57 Asia/Shanghai] PHP Fatal error:  Undefined class constant 'MAGIC_EXPIRE_OFFSET_TIME' in /home/chidsjwb/wxgongzhongpingtai/getAccessToken.php on line 33
+[04-Aug-2015 09:09:37 Asia/Shanghai] AccessToken Fetched
+[04-Aug-2015 13:31:21 Asia/Shanghai] AccessToken Fetched
+[04-Aug-2015 14:58:05 Asia/Shanghai] AccessToken Fetched
+[04-Aug-2015 17:24:29 Asia/Shanghai] PHP Warning:  session_start(): The session id is too long or contains illegal characters, valid characters are a-z, A-Z, 0-9 and '-,' in /home/chidsjwb/public_html/personalconsulting/ball/getbirthday.php on line 14
+[04-Aug-2015 17:24:37 Asia/Shanghai] PHP Warning:  session_start(): The session id is too long or contains illegal characters, valid characters are a-z, A-Z, 0-9 and '-,' in /home/chidsjwb/public_html/personalconsulting/ball/index.php on line 2
+[04-Aug-2015 22:18:35 Asia/Shanghai] AccessToken Fetched
+[04-Aug-2015 23:45:17 Asia/Shanghai] AccessToken Fetched
+[04-Aug-2015 23:45:17 Asia/Shanghai] AccessToken Fetched
+[04-Aug-2015 23:45:17 Asia/Shanghai] AccessToken Fetched
